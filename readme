@@ -1,0 +1,16 @@
+Introduction
+1.This project is used to practice Java Concurrency.
+2.Plenty of demos are from book <Java Concurrency In Practice>
+3.The performance tests are depending on Apache Jmeter
+
+项目简介:
+1.整个工程是在学习Java并发编程
+2.大量的例子来源于<Java并发实战>这本书
+3.针对并发测试依赖的是Jmeter
+
+Package Catalog:
+1.com.dragon.concurrent.statistic:Include some kinds of implementations of statistic, thread safety and unsafety, describe the Attributes、Annotations and Classes in detail.
+
+
+目录简介:
+1.com.dragon.concurrent.statistic:统计功能的几种实现方式,包括线程安全的、非线程安全的,并记录了相应的测试结果,详细描述了部分属性、注解、类的使用细节
