@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicLong;
  * 
  *         <Specification> : 测试线程安全的计数器,采用Concurrent的AtomicLong进行统计
  * 
- *         <Result>: 还未测试
+ *         <Result>: 线程安全,并发环境下计数无误
  * 
  */
 public class SafeSequenceConcurrent {
